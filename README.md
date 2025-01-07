@@ -24,4 +24,6 @@ You want to start with basic one then jump to other ones.
 ## Acknowledgement
 Updated on Jan 6 2025, for demo
 
+## .gitignore
 
+.venv
